@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86666227029",
+    "project_id": "let-s-chat-fcac8",
+    "storage_bucket": "let-s-chat-fcac8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86666227029:android:565124c645e9bf8beb13dc",
+        "android_client_info": {
+          "package_name": "com.sejal.lets_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86666227029-dnectspspiujai56bg7r2ku24ht4eac8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnJBVI8HpKXcyk1ZW6-R5Sl2RQE0mmrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86666227029-dnectspspiujai56bg7r2ku24ht4eac8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

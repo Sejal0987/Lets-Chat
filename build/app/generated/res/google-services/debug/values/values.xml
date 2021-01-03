@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">86666227029-dnectspspiujai56bg7r2ku24ht4eac8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">86666227029</string>
+    <string name="google_api_key" translatable="false">AIzaSyDGnJBVI8HpKXcyk1ZW6-R5Sl2RQE0mmrw</string>
+    <string name="google_app_id" translatable="false">1:86666227029:android:565124c645e9bf8beb13dc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDGnJBVI8HpKXcyk1ZW6-R5Sl2RQE0mmrw</string>
+    <string name="google_storage_bucket" translatable="false">let-s-chat-fcac8.appspot.com</string>
+    <string name="project_id" translatable="false">let-s-chat-fcac8</string>
+</resources>
