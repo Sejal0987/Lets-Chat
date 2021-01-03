@@ -1,4 +1,4 @@
-# Flash-chat
+# Lets_chat
 
 A new Flutter application.
 
